@@ -1,0 +1,25 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KHARIKA17/hk-node-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KHARIKA17/hk-node-express/issues"
+  },
+  "homepage": "https://github.com/KHARIKA17/hk-node-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {"node":"15.x"},
+  "start":"node app.js"
+  
+}
